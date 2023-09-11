@@ -13,6 +13,8 @@ mp_hands=mp.solutions.hands
 hands=mp_hands.Hands()
 mp_drawing=mp.solutions.drawing_utils
 
+# Test comment
+
 # Loop
 while True:
     # Get the current frame and if it is visible
